@@ -1,4 +1,4 @@
-package ucstest;
+package sorting;
 
 /**
  * Node object which stores students names and scores.
